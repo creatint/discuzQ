@@ -7,7 +7,7 @@
 .php_cs.cache
 /public/s9e.js
 /public/storage
-/storage/install.lock
+#/storage/install.lock
 /public/docs
 /public/api-docs
 /public/manual-h5
